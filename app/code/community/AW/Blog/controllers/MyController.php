@@ -31,7 +31,7 @@ class AW_Blog_MyController extends Mage_Core_Controller_Front_Action
         echo Mage::helper('blog')->isShowcolor();
          $this->renderLayout();
     }
-    //asdfsafd
+    //asdfsaf
 
 
 
